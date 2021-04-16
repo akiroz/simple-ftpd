@@ -17,7 +17,8 @@ function ftpd (opts, sessionCb) {
     dataHost: '127.0.0.1',
     root: '/',
     maxConnections: 10,
-    readOnly: true
+    readOnly: true,
+    debug: false
   }, opts)
 
   const ftpServer = createServer()
