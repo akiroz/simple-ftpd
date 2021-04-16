@@ -1,6 +1,6 @@
 {
   "name": "@akiroz/simple-ftpd",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "simple ftp server",
   "keywords": [
     "ftp server",
